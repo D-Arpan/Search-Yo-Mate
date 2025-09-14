@@ -21,10 +21,10 @@ body {
     justify-content: center;
     align-items: center; */
     padding-top: 5%;
+    text-align: center;
 }
 
 #heading{
-    text-align: center;
     font-size: 4rem;
     color: rgb(150, 168, 168);
 }
@@ -106,3 +106,4 @@ body {
     transform: scale(1.02);
 
 }
+
