@@ -20,11 +20,11 @@ body {
     /* display: flex;
     justify-content: center;
     align-items: center; */
-    text-align: center;
     padding-top: 5%;
 }
 
 #heading{
+    text-align: center;
     font-size: 4rem;
     color: rgb(150, 168, 168);
 }
@@ -104,4 +104,5 @@ body {
 
 .card:hover {
     transform: scale(1.02);
+
 }
